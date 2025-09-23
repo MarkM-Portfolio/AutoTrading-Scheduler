@@ -1,0 +1,7 @@
+*.ex4 linguist-language=Ex4 linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.mq4 linguist-language=Mq4 linguist-vendored=false
+*.mq5 linguist-language=Mq5 linguist-vendored=false
+*.mqh linguist-language=Mqh linguist-vendored=false
+*.png linguist-language=Png linguist-vendored=false
